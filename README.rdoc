@@ -1,4 +1,4 @@
-#Richa== Welcome to Rails
+# Richa== Welcome to Rails
 Acharya
 
 
